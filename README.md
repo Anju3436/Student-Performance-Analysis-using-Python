@@ -9,10 +9,10 @@ This project analyzes student exam performance data using Python. It focuses on 
 
 ## 🎯 Objectives
 - Analyze student performance in Math, Reading, and Writing
-- Calculate average scores
-- Identify top-performing students
-- Perform data cleaning and validation
-- Visualize data using graphs
+- Calculate average scores.
+- Identify top-performing students.
+- Perform data cleaning and validation.
+- Visualize data using graphs.
 
 ---
 
