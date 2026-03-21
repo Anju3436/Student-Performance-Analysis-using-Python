@@ -80,7 +80,7 @@ The analysis helps in understanding student performance patterns and highlights 
 ---
 
 ## 📎 Files Included
-- `Student_Performance_Analysis.ipynb`
+- `Student_Performance_Analysis_code.ipynb`
 - `Student_Performance_Analysis.html`
 - `StudentsPerformance.csv`
 
