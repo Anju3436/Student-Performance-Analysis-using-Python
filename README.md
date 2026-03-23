@@ -1,10 +1,10 @@
-# Student-Performance-Analysis-using-Python
+# 📊 Student Performance Analysis Using Python
 This project analyzes student exam performance using Python, Pandas, and data visualization techniques to uncover insights and trends.
-# 📊 Student Performance Analysis
 
 
-🚀 **Click here to view the Live Project:**  
-👉 https://anju3436.github.io/Student-Performance-Analysis-using-Python/
+
+## 🌐 Live Project
+👉[Click here to view project](https://anju3436.github.io/Student-Performance-Analysis-using-Python/)
 
 
 ## 📌 Project Overview
